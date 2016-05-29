@@ -4,5 +4,6 @@
 ### Problems
 ##### Working with lists
 
-1. P01 (*) Find the last element of a given list
+1. P01 (*) Find the last element of a given list  :heavy_check_mark:
+2. P02 (*) Find the last but one element of a given list :heavy_check_mark:
 
